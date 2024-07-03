@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//For more advanced shuffle: Check>> https://stackoverflow.com/questions/273313/randomize-a-listt/1262619#1262619 
+
 namespace RandomNumberDemo
 {
     internal class Program
