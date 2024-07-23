@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HardwareManagementSystem", "HardwareManagementSystem.csproj", "{66EC8003-6967-4249-9B22-8781B1DC81DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarehouseManagementSystemAPI", "..\WarehouseManagementSystemAPI\WarehouseManagementSystemAPI.csproj", "{6175B6E9-B162-457C-A602-10F66D51C235}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66EC8003-6967-4249-9B22-8781B1DC81DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66EC8003-6967-4249-9B22-8781B1DC81DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66EC8003-6967-4249-9B22-8781B1DC81DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66EC8003-6967-4249-9B22-8781B1DC81DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6175B6E9-B162-457C-A602-10F66D51C235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6175B6E9-B162-457C-A602-10F66D51C235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6175B6E9-B162-457C-A602-10F66D51C235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6175B6E9-B162-457C-A602-10F66D51C235}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56143628-8833-4A18-92C1-39ABE979AF2E}
+	EndGlobalSection
+EndGlobal
